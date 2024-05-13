@@ -1,0 +1,12 @@
+html{
+    background-color: aquamarine;
+    color: black;
+}
+
+.centered{
+    display: flex;
+    max-width: 1250px;
+    margin: 0;
+    justify-content: center;
+    align-items: center;
+}
